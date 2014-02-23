@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class random{
+public class blackjack{
 
 public static void main(String args[]){
 System.out.println("Bienvenido a BlackJack");
